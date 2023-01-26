@@ -7,12 +7,19 @@
 ## Technology Used
 -Postman
 -Newman
-
-## Documentation
-- https://documenter.getpostman.com/view/25364187/2s8ZDeSJ83
+-vs code
 
 ## Test Cases
 - https://docs.google.com/spreadsheets/d/1xJnxgUb6LPbaJw19rFZyuHHjNGnKWLvqWJisHhStSuU/edit?usp=sharing
+
+## Generated API documentation
+- https://api.postman.com/collections/25364187-54d8395f-014f-43e2-be8a-75cc380c3658?access_key=PMAT-01GQMCQEY9WP7HZVA29KA2SKKK
+
+## View Documentation
+- https://documenter.getpostman.com/view/25364187/2s8ZDeSJ83
+
+## Bug Report
+- https://docs.google.com/spreadsheets/d/1G2Hy59HdOVAJjPgYz2DyniBjN5e1fmBN/edit?usp=sharing&ouid=114771656978469807735&rtpof=true&sd=true
 
 ![Collection Report Summary](https://user-images.githubusercontent.com/83439797/214835869-b624912d-4964-4bbd-bfcc-faabeae1fe3c.PNG)
 ![Totatl Request 01](https://user-images.githubusercontent.com/83439797/214835968-bc114808-ccc8-45b0-90d6-327ecc5a78ae.PNG)
