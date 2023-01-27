@@ -18,6 +18,9 @@
 ## View Documentation
 - https://documenter.getpostman.com/view/25364187/2s8ZDeSJ83
 
+## Newman Report Documentation
+- https://newman-report-afrinbintaamzad.netlify.app/
+
 ## Bug Report
 - https://docs.google.com/spreadsheets/d/1G2Hy59HdOVAJjPgYz2DyniBjN5e1fmBN/edit?usp=sharing&ouid=114771656978469807735&rtpof=true&sd=true
 
